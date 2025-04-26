@@ -101,3 +101,5 @@ Neural Style Transfer is a powerful and creative application of deep learning th
 3. Original paper: Gatys, L. A., Ecker, A. S., & Bethge, M. (2015). A Neural Algorithm of Artistic Style.
 
 # output
+
+![Image](https://github.com/user-attachments/assets/ea78c13a-8016-4476-a805-e46dcc473ecc)
